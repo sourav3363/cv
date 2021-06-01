@@ -1,0 +1,17 @@
+/* *{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-color:
+} */
+img {
+    width:200px;
+    height:200px;
+    border:2px solid white;
+    border-radius:50%;
+}
+a{
+    text-decoration:none;
+}
